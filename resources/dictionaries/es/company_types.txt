@@ -16,7 +16,7 @@ sociedad anónima|sociedad anonima|sa|s.a.|s.a|s a|sdad anon
 sociedad anónima abierta|sociedad anonima abierta|saa|s.a.a.|s.a.a|s a a
 sociedad anónima bursatil|sociedad anonima bursatil|sab|s.a.b.|s.a.b|s a b
 sociedad anónima deportiva|sociedad anonima deportiva|sad|s.a.d.|s.a.d|s a d
-sociedad anónima de capital variable|sociedad anonima de capital variable|sa de cv|s a de c v
+sociedad anónima de capital variable|sociedad anonima de capital variable|sa de cv|s a de c v|sa cv|s.a. de c.v.
 sociedad anónima cooperativa catalana limitada|sociedad anonima cooperativa catalana limitada|sccl|s.c.c.l.|s.c.c.l|s c c l
 sociedad anónima española|sociedad anonima espanola|sae|s.a.e.|s.a.e|s a e
 sociedad anónima finciera de inversión|sociedad anonima financiera de inversion|safi|s.a.f.i.|s.a.f.i|s a f i

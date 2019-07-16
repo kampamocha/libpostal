@@ -2,7 +2,7 @@
 y
 en
 con
-x
+x|por
 esquina|esq
 en la esquina de|en la esq de
 esquina de|esq de

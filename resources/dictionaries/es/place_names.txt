@@ -117,7 +117,7 @@ frutería|fruteria
 fuente
 funeraria
 galería|galeria
-gasolinera
+gasolinera|gasolineria|gasolinería
 gimnasio
 golfito
 grandes almacenes

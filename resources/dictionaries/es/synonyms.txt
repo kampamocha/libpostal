@@ -1,5 +1,5 @@
 abril|abr|abl
-agosto|ag|agto|ag.to|agt
+agosto|ag|agto|ag.to|agt|ago
 altura|alt
 alturas|alts
 arboleda|arb
@@ -38,7 +38,7 @@ militar|milr
 monte|mt|mte|mnte
 montes|mts|mtes|mntes|mnts
 nacional|nal|nacl
-noviembre|nbre|n.bre|nvre|n.vre|nove|nov.e|novre|nov.re|novbre|nov.bre|9bre|9.bre|9 bre
+noviembre|nbre|n.bre|nvre|n.vre|nove|nov.e|novre|nov.re|novbre|nov.bre|9bre|9.bre|9 bre|nov
 octubre|oct|octbre|oct.bre|octe|oct.e|8bre|8.bre|8 bre
 portillo|ptilo|ptllo
 prado|prdo

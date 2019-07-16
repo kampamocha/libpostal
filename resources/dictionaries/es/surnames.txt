@@ -2,5 +2,5 @@ fernández|fernandez|fdez
 lópez|lopez|lpez
 hernández|hernandez|hdez
 gonzález|gonzalez|glez
-martínez|martinez|mnez
+martínez|martinez|mnez|mtnez
 rodríguez|rodriguez|rguez
